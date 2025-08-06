@@ -1,0 +1,56 @@
+
+---
+
+## 📊 Key Analyses Performed
+
+### 1. 📈 Feature Funnel Analysis
+- Visualized user journey through the funnel:
+  - `feature_click` → `start_party` → `invite_friend` → `complete_party`
+- Identified **biggest drop-off** between `start_party` and `invite_friend`
+- Suggested UI nudges and better invite experience
+
+### 2. 📉 Retention Impact Analysis
+- Merged event data with retention labels
+- Found that **Watch Party users had a +12% higher 30-day retention** compared to non-users
+- Conducted t-test to confirm statistical significance
+
+### 3. 💬 Feedback Sentiment (Optional)
+- Analyzed mock feedback using NLP (`TextBlob`)
+- Identified sentiment trends and flagged common pain points
+- Created sentiment distribution chart
+
+---
+
+## 📈 Deliverables
+
+- 🔍 **Funnel Analysis** – Key drop-off points with visualization
+- 📉 **Retention Analysis** – Feature users vs non-users
+- 📊 **Tableau Dashboard** – Simulated adoption and usage dashboard
+- 💡 **Recommendations**
+  - Add tooltip onboarding guide
+  - Simplify invite flow via contact sync
+  - Promote feature in welcome/onboarding emails
+
+---
+
+## 🧠 Final Insights
+
+This project demonstrates the full **Product Analytics lifecycle**:
+
+| Stage                    | Outcome                                                                 |
+|--------------------------|-------------------------------------------------------------------------|
+| Problem Definition       | Feature usage and retention post-launch                                |
+| Data Collection          | Simulated user events and retention labels                             |
+| Analysis                 | Funnel analysis, churn comparison, sentiment scoring                   |
+| Business Impact          | Identified +12% retention boost and usability issues                   |
+| Recommendations          | Delivered 3 product changes backed by data                             |
+
+---
+
+## 🖼️ Visual Highlights
+
+### 🎯 Funnel Chart
+### 📊 Retention Chart
+
+
+
